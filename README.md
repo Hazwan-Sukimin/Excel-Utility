@@ -10,22 +10,22 @@ This Java utility, ExcelUtility, provides a convenient set of functions for crea
 - Generating downloadable Excel files for web applications
 
 # Key Features
-#1. Sheet Management:
+# 1. Sheet Management:
   - Create new sheets within the workbook.
   - Easily navigate and manage rows and cells within the current sheet.
 
-#2. Cell Operations:
+# 2. Cell Operations:
   - Create cells, set values, and apply cell styles.
   - Merge cells horizontally and vertically.
 
-#3. Row Operations:
+# 3. Row Operations:
    - Add rows with custom data.
    - Skip rows to add space or separation.
 
-#4. Styling:
+# 4. Styling:
    - Define custom cell styles with various formatting options.
    - Apply styles to cells and rows.
 
-#5. Downloadable Excel File:
+# 5. Downloadable Excel File:
   - Save the workbook as an Excel file with a specified filename.
   - Stream the Excel file as a response in a web application.
